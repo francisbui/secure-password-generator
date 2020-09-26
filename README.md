@@ -1,0 +1,2 @@
+# secure password generator
+The purpose of this program is to design a menu system using the command-line interface. The application will have various sets of menu option application that will perform a variety of mathematics and security-related functions. The menu will loop back after each operation until the user exits. At that point, a function will execute that will thank the user for participating and the application will exit.
